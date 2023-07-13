@@ -1,0 +1,35 @@
+{
+  "movies": [
+    {
+      "title": "Silence of the Lambs",
+      "release_year": 1991,
+      "director": "Jonathan Demme",
+      "rating": 7.0,
+      "impression": "Batman?"
+    }, {
+      "title": "Sex, Lies, and Videotape",
+      "release_year": 1989,
+      "director": "Steven Soderbergh",
+      "rating": 9.5,
+      "impression": "I like this."
+    }, {
+      "title": "Glengarry Glen Ross",
+      "release_year": 1992,
+      "director": "James Foley",
+      "rating": 7.0,
+      "impression": "Ahhh, that was good, but I'm sad now."
+    }, {
+      "title": "The Lego Batman Movie",
+      "release_year": "2017",
+      "director": "Chris Mckay",
+      "rating": 5.0,
+      "impression": "Better than the Lego Movie? No."
+    }, {
+      "title": "In the Mood for Love",
+      "release_year": "2000",
+      "director": "Kar-Wai Wong",
+      "rating": 9.5,
+      "impression": "Beautiful, every minute of it."
+    }
+  ]
+}
